@@ -94,4 +94,14 @@ li a:hover {
 }
 
 /* card */
-
+.cards {
+  height: 400px;
+  display: flex;
+  justify-content: space-around;
+}
+.card {
+  height: 300px;
+  width: 200px;
+  margin-top: 30px;
+  background-color: rgb(241, 127, 89);
+}
